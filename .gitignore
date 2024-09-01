@@ -1,0 +1,6 @@
+build/
+dist/
+mstturing.egg-info/
+manifest.in
+setup.cfg
+setup.py
